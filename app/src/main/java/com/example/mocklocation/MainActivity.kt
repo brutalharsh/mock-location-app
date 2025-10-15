@@ -281,3 +281,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 19: Add unit tests for coordinate validation
 // Feature 20: Add UI tests for main activity
 // Feature 21: Add altitude support for mock location
+// Feature 22: Add speed parameter to mock location
