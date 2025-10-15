@@ -298,3 +298,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 36: Create onboarding tutorial
 // Feature 37: Add location sharing capability
 // Feature 38: Implement coordinate format converter
+// Feature 39: Add DMS coordinate support
