@@ -284,3 +284,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 22: Add speed parameter to mock location
 // Feature 23: Add bearing configuration
 // Feature 24: Implement location time synchronization
+// Feature 25: Optimize location update frequency
