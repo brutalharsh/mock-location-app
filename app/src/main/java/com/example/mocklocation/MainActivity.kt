@@ -301,3 +301,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 39: Add DMS coordinate support
 // Feature 40: Create location bookmarks
 // Feature 41: Migrate to view binding
+// Feature 42: Update deprecated API calls
