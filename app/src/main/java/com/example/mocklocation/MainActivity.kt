@@ -302,3 +302,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 40: Create location bookmarks
 // Feature 41: Migrate to view binding
 // Feature 42: Update deprecated API calls
+// Feature 43: Update Gradle dependencies
