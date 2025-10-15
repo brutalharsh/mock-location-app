@@ -279,3 +279,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 17: Improve error message clarity
 // Feature 18: Add inline code documentation
 // Feature 19: Add unit tests for coordinate validation
+// Feature 20: Add UI tests for main activity
