@@ -288,3 +288,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 26: Format code according to Kotlin conventions
 // Feature 27: Add vibration feedback on location set
 // Feature 28: Implement location history feature
+// Feature 29: Add favorite locations storage
