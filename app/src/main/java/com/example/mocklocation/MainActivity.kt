@@ -291,3 +291,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 29: Add favorite locations storage
 // Feature 30: Create location preset system
 // Feature 31: Handle SecurityException properly
+// Feature 32: Resolve memory leaks in location manager
