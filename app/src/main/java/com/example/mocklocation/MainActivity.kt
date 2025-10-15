@@ -304,3 +304,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 42: Update deprecated API calls
 // Feature 43: Update Gradle dependencies
 // Feature 44: Configure ProGuard rules
+// Feature 45: Add GitHub Actions workflow
