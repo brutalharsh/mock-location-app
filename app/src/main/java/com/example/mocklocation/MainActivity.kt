@@ -289,3 +289,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 27: Add vibration feedback on location set
 // Feature 28: Implement location history feature
 // Feature 29: Add favorite locations storage
+// Feature 30: Create location preset system
