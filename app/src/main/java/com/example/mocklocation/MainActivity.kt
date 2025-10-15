@@ -285,3 +285,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 23: Add bearing configuration
 // Feature 24: Implement location time synchronization
 // Feature 25: Optimize location update frequency
+// Feature 26: Format code according to Kotlin conventions
