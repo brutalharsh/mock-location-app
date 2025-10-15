@@ -268,3 +268,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 6: Add error handling for invalid coordinates
 // Feature 7: Create material design UI components
 // Feature 8: Add TextInputLayout for better UX
+// Feature 9: Implement mock location setting logic
