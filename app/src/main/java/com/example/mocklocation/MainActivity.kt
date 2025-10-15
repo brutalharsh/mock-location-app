@@ -293,3 +293,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 31: Handle SecurityException properly
 // Feature 32: Resolve memory leaks in location manager
 // Feature 33: Add dark theme support
+// Feature 34: Implement adaptive icons
