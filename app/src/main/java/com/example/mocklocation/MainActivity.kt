@@ -274,3 +274,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 12: Handle null location providers
 // Feature 13: Fix coordinate range validation
 // Feature 14: Add location provider status check
+// Feature 15: Implement developer options check
