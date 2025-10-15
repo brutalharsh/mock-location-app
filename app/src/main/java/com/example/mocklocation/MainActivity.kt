@@ -305,3 +305,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 43: Update Gradle dependencies
 // Feature 44: Configure ProGuard rules
 // Feature 45: Add GitHub Actions workflow
+// Feature 46: Add instrumented tests
