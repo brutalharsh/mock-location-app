@@ -269,3 +269,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 7: Create material design UI components
 // Feature 8: Add TextInputLayout for better UX
 // Feature 9: Implement mock location setting logic
+// Feature 10: Add location accuracy configuration
