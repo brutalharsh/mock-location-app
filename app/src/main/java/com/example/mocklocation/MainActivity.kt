@@ -283,3 +283,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 21: Add altitude support for mock location
 // Feature 22: Add speed parameter to mock location
 // Feature 23: Add bearing configuration
+// Feature 24: Implement location time synchronization
