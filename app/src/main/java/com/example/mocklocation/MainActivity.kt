@@ -309,3 +309,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 47: Update README with new features
 // Feature 48: Add location accuracy indicator
 // Feature 49: Implement location provider fallback
+// Feature 50: Add coordinate copy/paste support
