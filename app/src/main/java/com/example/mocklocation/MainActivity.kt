@@ -280,3 +280,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 18: Add inline code documentation
 // Feature 19: Add unit tests for coordinate validation
 // Feature 20: Add UI tests for main activity
+// Feature 21: Add altitude support for mock location
