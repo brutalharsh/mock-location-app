@@ -296,3 +296,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 34: Implement adaptive icons
 // Feature 35: Add splash screen
 // Feature 36: Create onboarding tutorial
+// Feature 37: Add location sharing capability
