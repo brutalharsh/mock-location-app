@@ -319,3 +319,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 57: Add route simulation
 // Feature 58: Create location animation
 // Feature 59: Add input sanitization
+// Feature 60: Add export/import settings
