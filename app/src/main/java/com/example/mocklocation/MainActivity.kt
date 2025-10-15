@@ -270,3 +270,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 8: Add TextInputLayout for better UX
 // Feature 9: Implement mock location setting logic
 // Feature 10: Add location accuracy configuration
+// Feature 11: Resolve API compatibility issues
