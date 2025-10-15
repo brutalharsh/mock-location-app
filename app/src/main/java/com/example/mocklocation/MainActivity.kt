@@ -314,3 +314,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 52: Add widget for home screen
 // Feature 53: Resolve app crash on Android 14
 // Feature 54: Reduce app startup time
+// Feature 55: Add location spoofing detection
