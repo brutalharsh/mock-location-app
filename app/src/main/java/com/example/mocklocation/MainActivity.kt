@@ -295,3 +295,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 33: Add dark theme support
 // Feature 34: Implement adaptive icons
 // Feature 35: Add splash screen
+// Feature 36: Create onboarding tutorial
