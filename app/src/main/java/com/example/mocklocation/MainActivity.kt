@@ -308,3 +308,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 46: Add instrumented tests
 // Feature 47: Update README with new features
 // Feature 48: Add location accuracy indicator
+// Feature 49: Implement location provider fallback
