@@ -275,3 +275,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 13: Fix coordinate range validation
 // Feature 14: Add location provider status check
 // Feature 15: Implement developer options check
+// Feature 16: Extract permission logic to separate method
