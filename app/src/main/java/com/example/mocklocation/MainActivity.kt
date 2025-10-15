@@ -278,3 +278,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 16: Extract permission logic to separate method
 // Feature 17: Improve error message clarity
 // Feature 18: Add inline code documentation
+// Feature 19: Add unit tests for coordinate validation
