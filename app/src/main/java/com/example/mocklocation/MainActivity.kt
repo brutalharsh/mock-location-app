@@ -300,3 +300,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 38: Implement coordinate format converter
 // Feature 39: Add DMS coordinate support
 // Feature 40: Create location bookmarks
+// Feature 41: Migrate to view binding
