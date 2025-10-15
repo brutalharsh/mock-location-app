@@ -272,3 +272,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 10: Add location accuracy configuration
 // Feature 11: Resolve API compatibility issues
 // Feature 12: Handle null location providers
+// Feature 13: Fix coordinate range validation
