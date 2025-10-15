@@ -320,3 +320,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 58: Create location animation
 // Feature 59: Add input sanitization
 // Feature 60: Add export/import settings
+// Feature 61: Implement backup and restore
