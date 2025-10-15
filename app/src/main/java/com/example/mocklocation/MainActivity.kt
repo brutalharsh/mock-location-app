@@ -263,3 +263,4 @@ class MainActivity : AppCompatActivity() {
 }// Feature 1: Add location service initialization
 // Feature 2: Implement coordinate validation logic
 // Feature 3: Add GPS provider support
+// Feature 4: Add network provider support
