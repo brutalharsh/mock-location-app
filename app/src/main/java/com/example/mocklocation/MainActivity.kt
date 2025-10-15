@@ -260,4 +260,4 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
-}
+}// Feature 1: Add location service initialization
