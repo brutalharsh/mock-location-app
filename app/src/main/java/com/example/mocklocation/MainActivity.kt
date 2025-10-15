@@ -282,3 +282,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 20: Add UI tests for main activity
 // Feature 21: Add altitude support for mock location
 // Feature 22: Add speed parameter to mock location
+// Feature 23: Add bearing configuration
