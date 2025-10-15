@@ -299,3 +299,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 37: Add location sharing capability
 // Feature 38: Implement coordinate format converter
 // Feature 39: Add DMS coordinate support
+// Feature 40: Create location bookmarks
