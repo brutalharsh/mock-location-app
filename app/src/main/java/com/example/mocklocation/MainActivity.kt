@@ -271,3 +271,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 9: Implement mock location setting logic
 // Feature 10: Add location accuracy configuration
 // Feature 11: Resolve API compatibility issues
+// Feature 12: Handle null location providers
