@@ -303,3 +303,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 41: Migrate to view binding
 // Feature 42: Update deprecated API calls
 // Feature 43: Update Gradle dependencies
+// Feature 44: Configure ProGuard rules
