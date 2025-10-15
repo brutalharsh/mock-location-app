@@ -265,3 +265,4 @@ class MainActivity : AppCompatActivity() {
 // Feature 3: Add GPS provider support
 // Feature 4: Add network provider support
 // Feature 5: Implement permission request system
+// Feature 6: Add error handling for invalid coordinates
